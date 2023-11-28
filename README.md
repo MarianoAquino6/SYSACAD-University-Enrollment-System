@@ -87,6 +87,12 @@ Allows administrators to manage professor profiles, including course assignments
 
 ![Manage Professor Profiles](./Img/Manage_Professor_Profiles_3.png)
 
+## Unit Testing
+
+This program also contains a MSTesting project with a few unit-testing classes I used to test specific tasks on the program
+
+![Unit Testing](./Img/Unit_Testing.png)
+
 ## Database
 
 The project utilizes Microsoft SQL Server to manage the database. Below is a description of the database design and its relation to the project.
