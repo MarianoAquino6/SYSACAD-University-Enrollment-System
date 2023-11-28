@@ -1,7 +1,5 @@
 # SYSCAD - Enrollment Management System
 
-![UTN Logo](./Img/UTN_logo.png)
-
 SYSCAD is an enrollment management system designed to streamline the student enrollment process in a faculty. This system enables administrators and students to perform various actions related to enrollment, course management, and academic tracking.
 
 ![Main Menu](./Img/Main.png)
@@ -89,8 +87,26 @@ Allows administrators to manage professor profiles, including course assignments
 
 ![Manage Professor Profiles](./Img/Manage_Professor_Profiles_3.png)
 
+## Database
+
+The project utilizes Microsoft SQL Server to manage the database. Below is a description of the database design and its relation to the project.
+
+### Database Design
+
+![DB Main](./Img/DB_Main.png)
+
+The project's database is designed to store critical information for the university enrollment system. Several tables have been created to manage students, courses, professors, and other relevant aspects. Here is an overview of the Database diagram:
+
+![DB Diagram](./Img/DB_Diagram.png)
+
+#### Installing the Database
+
+To install this database on your SSMS just execute the SQL script located in this repository. It will create both tables and data.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
+<div style="text-align:center">
+  <img src="./Img/UTN_logo.png" alt="UTN Logo" width="450"/>
+</div>
