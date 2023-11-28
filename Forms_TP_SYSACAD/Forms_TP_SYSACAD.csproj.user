@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Administrador\Cursos\Form_Agregar_Curso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Profesores\Form_Agregar_Curso_A_Profesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Profesores\Form_Agregar_Profesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Profesores\Form_Editar_Profesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Profesores\Form_Profesores_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Reportes\Form_Reporte_Listas_Espera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\Pagos\Form_Comprobante_Pago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Cursos\Form_Cursos_Disponibles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Cursos\Form_Editar_Curso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Cursos\Form_Gestion_Listas_Espera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Cursos\Form_Gestion_Requisitos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\Cursos\Form_Horarios_Cursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\Cursos\Form_Inscripcion_Cursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Reportes\Form_Reporte_Ingresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\LogIn\Form_LogIn_Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\LogIn\Form_LogIn_Estudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\LogIn\Form_Nueva_Contrasenia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\Pagos\Form_Pagos_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\Pagos\Form_Pago_Tarjetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\Pagos\Form_Pago_Transferencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\LogIn\Form_Panel_Administracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudiante\LogIn\Form_Panel_Estudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Estudiantes\Form_Registro_Estudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Reportes\Form_Reportes_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Reportes\Form_Reporte_Inscripciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Reportes\Form_Input_Reporte_ComboBox_Periodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador\Reportes\Form_Input_Reporte_Periodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

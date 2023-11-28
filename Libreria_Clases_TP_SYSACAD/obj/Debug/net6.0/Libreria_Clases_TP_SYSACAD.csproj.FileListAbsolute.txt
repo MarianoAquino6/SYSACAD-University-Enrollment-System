@@ -1,0 +1,108 @@
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfoInputs.cache
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfo.cs
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\refint\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.deps.json
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\TP_Labo_2_Sysacad_backup\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\ref\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.deps.json
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.AssemblyReference.cache
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfo.cs
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\refint\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\ref\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.deps.json
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfoInputs.cache
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfo.cs
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\refint\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\ref\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.deps.json
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\refint\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\Usuario\Desktop\tp\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\ref\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.deps.json
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfoInputs.cache
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfo.cs
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\refint\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\tp - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\ref\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\x\Documents\Programming\Programacion y Laboratorio 2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CopyComplete
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.deps.json
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfoInputs.cache
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfo.cs
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CopyComplete
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\refint\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\ultimo chance\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\ref\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.deps.json
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfoInputs.cache
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfo.cs
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CopyComplete
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\refint\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\ultimo chance - copia\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\ref\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.deps.json
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfoInputs.cache
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.AssemblyInfo.cs
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.csproj.CopyComplete
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\refint\Libreria_Clases_TP_SYSACAD.dll
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\Libreria_Clases_TP_SYSACAD.pdb
+C:\Users\54113\Desktop\OK tp2\TP_Labo_2_Sysacad\Libreria_Clases_TP_SYSACAD\obj\Debug\net6.0\ref\Libreria_Clases_TP_SYSACAD.dll
